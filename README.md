@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://git.io/typing-svg"> 
-    <img src= "https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=32&duration=2500&pause=1000&color=00E7FF&background=5670FF00&center=true&vCenter=true&width=440&height=100&lines=Game+Developer;Software+Engineer;Gamer;Musician" alt="Typing SVG" /></a>
+    <img src= "https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=32&duration=2500&pause=1000&color=00E7FF&background=5670FF00&center=true&vCenter=true&width=440&height=100&lines=Game+Developer;Software+Engineer;Gamer;" alt="Typing SVG" /></a>
 <h1 align="center">Hello there, I'm Duygu</h1>
 <h3 align="center">I'm a software engineer with a passion for games.</h3>
 
@@ -21,7 +21,5 @@
 
 # 📊 Stats:
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DuyguCarkci&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> </a>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jonfoble&theme=radical&hide_border=false)<br/>
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
